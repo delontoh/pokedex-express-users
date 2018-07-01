@@ -85,7 +85,7 @@ class Edit extends React.Component {
                 defaultValue={this.props.pokemon.spawn_time}
               />
             </div>
-            <input name="submit" type="submit" />
+            <input name="edit btn" type="submit" value= 'Edit'/>
           </form>
         </body>
       </html>
